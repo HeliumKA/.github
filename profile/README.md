@@ -1,4 +1,4 @@
-![Alt text](banner.jpg)
+![image](https://raw.githubusercontent.com/HeliumKA/.github/refs/heads/main/banner.jpg)
 <div align="center" markdown="1">
 
 ## ***helium*** kernel
